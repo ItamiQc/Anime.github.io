@@ -1,0 +1,12 @@
+table, th, td {
+    border:5px solid rgb(4, 63, 55);
+    border-collapse: collapse;
+ }
+body {
+    background-image:url('pexels-belle-co-402028.jpg');
+    width: 1365px;
+    height: 887px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
